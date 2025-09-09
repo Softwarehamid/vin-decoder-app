@@ -20,6 +20,8 @@ Built with **React, Vite, TypeScript, and TailwindCSS**.
 - Jest (for utils tests)
 
 ## 📸 Screenshots
+<img width="953" height="992" alt="image" src="https://github.com/user-attachments/assets/e4c69386-cbd6-45d0-9ade-b64692918edb" />
+
 
 ## 🛠️ Setup
 Clone and install dependencies:
